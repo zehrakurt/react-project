@@ -27,11 +27,11 @@
     "scss": "^0.2.4",
     "vite": "^5.2.0"
   }
-  {
+ 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   }
-}
+
 }
